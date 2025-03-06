@@ -4,6 +4,17 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01 Introduction/01 Introduction.iml" filepath="$PROJECT_DIR$/01 Introduction/01 Introduction.iml" />
       <module fileurl="file://$PROJECT_DIR$/02 Java Basics/02 Java Basics.iml" filepath="$PROJECT_DIR$/02 Java Basics/02 Java Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03 DataTypes and Variables/03 DataTypes and Variables.iml" filepath="$PROJECT_DIR$/03 DataTypes and Variables/03 DataTypes and Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04 Operators if-else and Number System/04 Operators if-else and Number System.iml" filepath="$PROJECT_DIR$/04 Operators if-else and Number System/04 Operators if-else and Number System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 WhileLoop Methods And Arrays/05 WhileLoop Methods And Arrays.iml" filepath="$PROJECT_DIR$/05 WhileLoop Methods And Arrays/05 WhileLoop Methods And Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 Classes and Objects/06 Classes and Objects.iml" filepath="$PROJECT_DIR$/06 Classes and Objects/06 Classes and Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 Control statements maths and strings/07 Control statements maths and strings.iml" filepath="$PROJECT_DIR$/07 Control statements maths and strings/07 Control statements maths and strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08 Encpasulation and Inheritance/08 Encpasulation and Inheritance.iml" filepath="$PROJECT_DIR$/08 Encpasulation and Inheritance/08 Encpasulation and Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 Abstraction And Polymorphism/09 Abstraction And Polymorphism.iml" filepath="$PROJECT_DIR$/09 Abstraction And Polymorphism/09 Abstraction And Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10 Exception and File handling/10 Exception and File handling.iml" filepath="$PROJECT_DIR$/10 Exception and File handling/10 Exception and File handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11 Collections and Generics/11 Collections and Generics.iml" filepath="$PROJECT_DIR$/11 Collections and Generics/11 Collections and Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12 Multithreading and excutor services/12 Multithreading and excutor services.iml" filepath="$PROJECT_DIR$/12 Multithreading and excutor services/12 Multithreading and excutor services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13 Functional Programming/13 Functional Programming.iml" filepath="$PROJECT_DIR$/13 Functional Programming/13 Functional Programming.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Lecture Code.iml" filepath="$PROJECT_DIR$/.idea/Lecture Code.iml" />
     </modules>
   </component>
